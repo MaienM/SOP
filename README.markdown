@@ -2,7 +2,7 @@
 
 Basically, there are separate working/team, testing/staging and live branches.
 
-![alt tag](https://raw.githubusercontent.com/MaienM/SOP/master/branches.svg)
+![alt tag](https://raw.githubusercontent.com/MaienM/SOP/master/branches.png)
 
 # Original README
 
