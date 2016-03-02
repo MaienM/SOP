@@ -1,3 +1,11 @@
+# Branches
+
+Basically, there are separate working/team, testing/staging and live branches.
+
+![alt tag](https://raw.githubusercontent.com/MaienM/SOP/master/branches.svg)
+
+# Original README
+
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
 ## Building the project
